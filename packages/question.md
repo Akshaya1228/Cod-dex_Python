@@ -1,4 +1,4 @@
-Note: For this exercise, an outside code editor is needed. We recommend using VS Code. Check out this article to get started.
+Note: For this exercise, an outside code editor is needed. We recommend using VS Code. 
 
 It's time to try out a Python package!
 
